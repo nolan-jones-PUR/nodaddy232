@@ -1,5 +1,4 @@
-## Hi there 👋
-
+As a dedicated and motivated learner, I am passionately pursuing a Bachelor's degree in Computer and Information Technology with a minor in Organizational Leadership at Purdue University. I maintain a strong academic record (3.77 GPA). I thrive when I can apply logical knowledge acquired through schooling and practice those learnings in a real world workplace. Building on a strong foundation in IT support and hardware maintenance cultivated in high school, my experience at Miami-Cass REMC has provided invaluable hands on exposure, including configuring, managing, and troubleshooting critical network infrastructure (routers, firewalls, switches), and actively participating in vulnerability assessments and remediation efforts within a sandbox environment to deepen my understanding of network segmentation, device management, and cybersecurity practices. My studies, combined with professional internships, have equipped me with a robust skill set in Threat & Vulnerability Management, Network Security, Troubleshooting, and Problem Solving, all of which I am eager to apply to my career as I continue at Purdue University.
 <!--
 **nodaddy232/nodaddy232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
